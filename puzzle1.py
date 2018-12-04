@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Created on Mon Dec  3 16:29:34 2018
 
-This is a temporary script file.
+@author: bonar
 """
 
 file = open('1input.txt','r')

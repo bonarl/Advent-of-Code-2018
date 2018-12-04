@@ -2,7 +2,7 @@
 """
 Created on Mon Dec  3 14:53:33 2018
 
-@author: 2077969R
+@author: bonar
 """
 
 file = open('2input.txt','r')
